@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .ligKxb {
+        background-color: #e2e8f0 !important;
+    }
+    .hIZHya {
+        background-color: #e2e8f0 !important;
+    }
+    
+}
